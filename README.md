@@ -1,1 +1,1 @@
-<a href="https://github.com/hariqueen"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-3730&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/hariqueen"><img align="center" style="height:165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariqueen&layout=compact&theme=nord&hide_border=true" /></a>
