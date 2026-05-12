@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats-hariqueen.vercel.app/api/top-langs/?username=hariqueen&layout=compact&theme=nord&hide_border=true" />
+<img src="https://raw.githubusercontent.com/hariqueen/hariqueen/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
