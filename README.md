@@ -1,1 +1,3 @@
-<img src="https://raw.githubusercontent.com/hariqueen/hariqueen/main/profile-summary-card-output/nord_bright/2-most-commit-language.svg" />
+<a href="https://github.com/hariqueen">
+  <img align="center" height="165" src="./profile/top-langs.svg" />
+</a>
